@@ -75,7 +75,7 @@ public class Main {
     public static void punto1(){
 
 
-        int variableEntero = 10;
+        int variableEntero = 30;  //CAMBIE ESTE 10 POR 30
 
         System.out.println("La variable de tipo entero es: " + variableEntero);
 
